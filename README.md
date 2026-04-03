@@ -93,6 +93,17 @@ POST /login
  Validação de dados
  Documentação com Swagger
  Deploy em produção
+
+Imagem
+
+<div align="center">
+<img width="1919" height="1026" alt="Image" src="https://github.com/user-attachments/assets/188f3703-ee2d-4952-9cfa-d97793202593" />
+<img width="1919" height="1033" alt="Image" src="https://github.com/user-attachments/assets/162a289d-603c-46a2-a951-7c3d97046648" />
+<img width="1919" height="318" alt="Image" src="https://github.com/user-attachments/assets/109b6e5c-e6f3-4706-a13f-95107d13d289" />
+<img width="1912" height="1028" alt="Image" src="https://github.com/user-attachments/assets/f9b7e355-7b74-4165-a160-149fb8be3b51" />
+<img width="342" height="461" alt="Image" src="https://github.com/user-attachments/assets/24120f20-793f-4940-8a86-c2db51b78fa0" />
+</div>
+ 
 👨‍💻 Autor
 
 Matheus Fideles
